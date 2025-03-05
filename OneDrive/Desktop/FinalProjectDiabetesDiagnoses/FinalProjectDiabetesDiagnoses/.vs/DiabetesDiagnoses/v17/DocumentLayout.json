@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\norha\\OneDrive\\Desktop\\FinalProjectDiabetesDiagnoses\\FinalProjectDiabetesDiagnoses\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DDC99591-8CA7-418D-B7BB-BCCEE34D2D7D}|..\\Diabetes.Repository\\Diabetes.Repository.csproj|c:\\users\\norha\\onedrive\\desktop\\finalprojectdiabetesdiagnoses\\diabetes.repository\\data\\configrations\\doctorconfigrations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDC99591-8CA7-418D-B7BB-BCCEE34D2D7D}|..\\Diabetes.Repository\\Diabetes.Repository.csproj|c:\\users\\norha\\onedrive\\desktop\\finalprojectdiabetesdiagnoses\\diabetes.repository\\data\\configrations\\adminconfigrations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDC99591-8CA7-418D-B7BB-BCCEE34D2D7D}|..\\Diabetes.Repository\\Diabetes.Repository.csproj|c:\\users\\norha\\onedrive\\desktop\\finalprojectdiabetesdiagnoses\\diabetes.repository\\data\\finalcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FinalContext.cs",
+              "DocumentMoniker": "C:\\Users\\norha\\OneDrive\\Desktop\\FinalProjectDiabetesDiagnoses\\Diabetes.Repository\\Data\\FinalContext.cs",
+              "RelativeDocumentMoniker": "..\\Diabetes.Repository\\Data\\FinalContext.cs",
+              "ToolTip": "C:\\Users\\norha\\OneDrive\\Desktop\\FinalProjectDiabetesDiagnoses\\Diabetes.Repository\\Data\\FinalContext.cs",
+              "RelativeToolTip": "..\\Diabetes.Repository\\Data\\FinalContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T14:05:03.283Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DoctorConfigrations.cs",
+              "DocumentMoniker": "C:\\Users\\norha\\OneDrive\\Desktop\\FinalProjectDiabetesDiagnoses\\Diabetes.Repository\\Data\\Configrations\\DoctorConfigrations.cs",
+              "RelativeDocumentMoniker": "..\\Diabetes.Repository\\Data\\Configrations\\DoctorConfigrations.cs",
+              "ToolTip": "C:\\Users\\norha\\OneDrive\\Desktop\\FinalProjectDiabetesDiagnoses\\Diabetes.Repository\\Data\\Configrations\\DoctorConfigrations.cs",
+              "RelativeToolTip": "..\\Diabetes.Repository\\Data\\Configrations\\DoctorConfigrations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T14:28:15.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AdminConfigrations.cs",
+              "DocumentMoniker": "C:\\Users\\norha\\OneDrive\\Desktop\\FinalProjectDiabetesDiagnoses\\Diabetes.Repository\\Data\\Configrations\\AdminConfigrations.cs",
+              "RelativeDocumentMoniker": "..\\Diabetes.Repository\\Data\\Configrations\\AdminConfigrations.cs",
+              "ToolTip": "C:\\Users\\norha\\OneDrive\\Desktop\\FinalProjectDiabetesDiagnoses\\Diabetes.Repository\\Data\\Configrations\\AdminConfigrations.cs",
+              "RelativeToolTip": "..\\Diabetes.Repository\\Data\\Configrations\\AdminConfigrations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T14:14:15.8Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

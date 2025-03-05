@@ -1,0 +1,404 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\norha\\OneDrive\\Desktop\\FinalProjectDiabetesDiagnoses\\FinalProjectDiabetesDiagnoses\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{267B5D2C-CF2B-4A4F-A1BE-27AC429430EC}|..\\Diabetes.Core\\Diabetes.Core.csproj|c:\\users\\norha\\onedrive\\desktop\\finalprojectdiabetesdiagnoses\\diabetes.core\\entites\\symptoms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{267B5D2C-CF2B-4A4F-A1BE-27AC429430EC}|..\\Diabetes.Core\\Diabetes.Core.csproj|c:\\users\\norha\\onedrive\\desktop\\finalprojectdiabetesdiagnoses\\diabetes.core\\entites\\suspectdiabetesresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{267B5D2C-CF2B-4A4F-A1BE-27AC429430EC}|..\\Diabetes.Core\\Diabetes.Core.csproj|c:\\users\\norha\\onedrive\\desktop\\finalprojectdiabetesdiagnoses\\diabetes.core\\entites\\suggestionfood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{267B5D2C-CF2B-4A4F-A1BE-27AC429430EC}|..\\Diabetes.Core\\Diabetes.Core.csproj|c:\\users\\norha\\onedrive\\desktop\\finalprojectdiabetesdiagnoses\\diabetes.core\\entites\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{267B5D2C-CF2B-4A4F-A1BE-27AC429430EC}|..\\Diabetes.Core\\Diabetes.Core.csproj|c:\\users\\norha\\onedrive\\desktop\\finalprojectdiabetesdiagnoses\\diabetes.core\\entites\\organization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{267B5D2C-CF2B-4A4F-A1BE-27AC429430EC}|..\\Diabetes.Core\\Diabetes.Core.csproj|c:\\users\\norha\\onedrive\\desktop\\finalprojectdiabetesdiagnoses\\diabetes.core\\entites\\newsfeedpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{267B5D2C-CF2B-4A4F-A1BE-27AC429430EC}|..\\Diabetes.Core\\Diabetes.Core.csproj|c:\\users\\norha\\onedrive\\desktop\\finalprojectdiabetesdiagnoses\\diabetes.core\\entites\\medicalsyndicate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{267B5D2C-CF2B-4A4F-A1BE-27AC429430EC}|..\\Diabetes.Core\\Diabetes.Core.csproj|c:\\users\\norha\\onedrive\\desktop\\finalprojectdiabetesdiagnoses\\diabetes.core\\entites\\medicalhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{267B5D2C-CF2B-4A4F-A1BE-27AC429430EC}|..\\Diabetes.Core\\Diabetes.Core.csproj|c:\\users\\norha\\onedrive\\desktop\\finalprojectdiabetesdiagnoses\\diabetes.core\\entites\\managermedicalhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{267B5D2C-CF2B-4A4F-A1BE-27AC429430EC}|..\\Diabetes.Core\\Diabetes.Core.csproj|c:\\users\\norha\\onedrive\\desktop\\finalprojectdiabetesdiagnoses\\diabetes.core\\entites\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{267B5D2C-CF2B-4A4F-A1BE-27AC429430EC}|..\\Diabetes.Core\\Diabetes.Core.csproj|c:\\users\\norha\\onedrive\\desktop\\finalprojectdiabetesdiagnoses\\diabetes.core\\entites\\doctorchatbotquestiondoctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{267B5D2C-CF2B-4A4F-A1BE-27AC429430EC}|..\\Diabetes.Core\\Diabetes.Core.csproj|c:\\users\\norha\\onedrive\\desktop\\finalprojectdiabetesdiagnoses\\diabetes.core\\entites\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{267B5D2C-CF2B-4A4F-A1BE-27AC429430EC}|..\\Diabetes.Core\\Diabetes.Core.csproj|c:\\users\\norha\\onedrive\\desktop\\finalprojectdiabetesdiagnoses\\diabetes.core\\entites\\disease.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{267B5D2C-CF2B-4A4F-A1BE-27AC429430EC}|..\\Diabetes.Core\\Diabetes.Core.csproj|c:\\users\\norha\\onedrive\\desktop\\finalprojectdiabetesdiagnoses\\diabetes.core\\entites\\diagnosisdisease.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{267B5D2C-CF2B-4A4F-A1BE-27AC429430EC}|..\\Diabetes.Core\\Diabetes.Core.csproj|c:\\users\\norha\\onedrive\\desktop\\finalprojectdiabetesdiagnoses\\diabetes.core\\entites\\diagnosis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{267B5D2C-CF2B-4A4F-A1BE-27AC429430EC}|..\\Diabetes.Core\\Diabetes.Core.csproj|c:\\users\\norha\\onedrive\\desktop\\finalprojectdiabetesdiagnoses\\diabetes.core\\entites\\clerk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{267B5D2C-CF2B-4A4F-A1BE-27AC429430EC}|..\\Diabetes.Core\\Diabetes.Core.csproj|c:\\users\\norha\\onedrive\\desktop\\finalprojectdiabetesdiagnoses\\diabetes.core\\entites\\chatbotquestiondoctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{267B5D2C-CF2B-4A4F-A1BE-27AC429430EC}|..\\Diabetes.Core\\Diabetes.Core.csproj|c:\\users\\norha\\onedrive\\desktop\\finalprojectdiabetesdiagnoses\\diabetes.core\\entites\\chatbotquestioncasualuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{267B5D2C-CF2B-4A4F-A1BE-27AC429430EC}|..\\Diabetes.Core\\Diabetes.Core.csproj|c:\\users\\norha\\onedrive\\desktop\\finalprojectdiabetesdiagnoses\\diabetes.core\\entites\\casualuserchatbotquestioncasualuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{267B5D2C-CF2B-4A4F-A1BE-27AC429430EC}|..\\Diabetes.Core\\Diabetes.Core.csproj|c:\\users\\norha\\onedrive\\desktop\\finalprojectdiabetesdiagnoses\\diabetes.core\\entites\\casualuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{267B5D2C-CF2B-4A4F-A1BE-27AC429430EC}|..\\Diabetes.Core\\Diabetes.Core.csproj|c:\\users\\norha\\onedrive\\desktop\\finalprojectdiabetesdiagnoses\\diabetes.core\\entites\\bloodsugarmeasurement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{267B5D2C-CF2B-4A4F-A1BE-27AC429430EC}|..\\Diabetes.Core\\Diabetes.Core.csproj|c:\\users\\norha\\onedrive\\desktop\\finalprojectdiabetesdiagnoses\\diabetes.core\\entites\\alarm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{267B5D2C-CF2B-4A4F-A1BE-27AC429430EC}|..\\Diabetes.Core\\Diabetes.Core.csproj|c:\\users\\norha\\onedrive\\desktop\\finalprojectdiabetesdiagnoses\\diabetes.core\\entites\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDC99591-8CA7-418D-B7BB-BCCEE34D2D7D}|..\\Diabetes.Repository\\Diabetes.Repository.csproj|c:\\users\\norha\\onedrive\\desktop\\finalprojectdiabetesdiagnoses\\diabetes.repository\\data\\finalcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Symptoms.cs",
+              "DocumentMoniker": "C:\\Users\\norha\\OneDrive\\Desktop\\FinalProjectDiabetesDiagnoses\\Diabetes.Core\\Entites\\Symptoms.cs",
+              "RelativeDocumentMoniker": "..\\Diabetes.Core\\Entites\\Symptoms.cs",
+              "ToolTip": "C:\\Users\\norha\\OneDrive\\Desktop\\FinalProjectDiabetesDiagnoses\\Diabetes.Core\\Entites\\Symptoms.cs",
+              "RelativeToolTip": "..\\Diabetes.Core\\Entites\\Symptoms.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T14:01:09.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SuspectDiabetesResult.cs",
+              "DocumentMoniker": "C:\\Users\\norha\\OneDrive\\Desktop\\FinalProjectDiabetesDiagnoses\\Diabetes.Core\\Entites\\SuspectDiabetesResult.cs",
+              "RelativeDocumentMoniker": "..\\Diabetes.Core\\Entites\\SuspectDiabetesResult.cs",
+              "ToolTip": "C:\\Users\\norha\\OneDrive\\Desktop\\FinalProjectDiabetesDiagnoses\\Diabetes.Core\\Entites\\SuspectDiabetesResult.cs",
+              "RelativeToolTip": "..\\Diabetes.Core\\Entites\\SuspectDiabetesResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T14:00:55.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SuggestionFood.cs",
+              "DocumentMoniker": "C:\\Users\\norha\\OneDrive\\Desktop\\FinalProjectDiabetesDiagnoses\\Diabetes.Core\\Entites\\SuggestionFood.cs",
+              "RelativeDocumentMoniker": "..\\Diabetes.Core\\Entites\\SuggestionFood.cs",
+              "ToolTip": "C:\\Users\\norha\\OneDrive\\Desktop\\FinalProjectDiabetesDiagnoses\\Diabetes.Core\\Entites\\SuggestionFood.cs",
+              "RelativeToolTip": "..\\Diabetes.Core\\Entites\\SuggestionFood.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T14:00:48.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\norha\\OneDrive\\Desktop\\FinalProjectDiabetesDiagnoses\\Diabetes.Core\\Entites\\Patient.cs",
+              "RelativeDocumentMoniker": "..\\Diabetes.Core\\Entites\\Patient.cs",
+              "ToolTip": "C:\\Users\\norha\\OneDrive\\Desktop\\FinalProjectDiabetesDiagnoses\\Diabetes.Core\\Entites\\Patient.cs",
+              "RelativeToolTip": "..\\Diabetes.Core\\Entites\\Patient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T13:59:56.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Organization.cs",
+              "DocumentMoniker": "C:\\Users\\norha\\OneDrive\\Desktop\\FinalProjectDiabetesDiagnoses\\Diabetes.Core\\Entites\\Organization.cs",
+              "RelativeDocumentMoniker": "..\\Diabetes.Core\\Entites\\Organization.cs",
+              "ToolTip": "C:\\Users\\norha\\OneDrive\\Desktop\\FinalProjectDiabetesDiagnoses\\Diabetes.Core\\Entites\\Organization.cs",
+              "RelativeToolTip": "..\\Diabetes.Core\\Entites\\Organization.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T13:59:48.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NewsFeedPost.cs",
+              "DocumentMoniker": "C:\\Users\\norha\\OneDrive\\Desktop\\FinalProjectDiabetesDiagnoses\\Diabetes.Core\\Entites\\NewsFeedPost.cs",
+              "RelativeDocumentMoniker": "..\\Diabetes.Core\\Entites\\NewsFeedPost.cs",
+              "ToolTip": "C:\\Users\\norha\\OneDrive\\Desktop\\FinalProjectDiabetesDiagnoses\\Diabetes.Core\\Entites\\NewsFeedPost.cs",
+              "RelativeToolTip": "..\\Diabetes.Core\\Entites\\NewsFeedPost.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T13:59:30.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MedicalSyndicate.cs",
+              "DocumentMoniker": "C:\\Users\\norha\\OneDrive\\Desktop\\FinalProjectDiabetesDiagnoses\\Diabetes.Core\\Entites\\MedicalSyndicate.cs",
+              "RelativeDocumentMoniker": "..\\Diabetes.Core\\Entites\\MedicalSyndicate.cs",
+              "ToolTip": "C:\\Users\\norha\\OneDrive\\Desktop\\FinalProjectDiabetesDiagnoses\\Diabetes.Core\\Entites\\MedicalSyndicate.cs",
+              "RelativeToolTip": "..\\Diabetes.Core\\Entites\\MedicalSyndicate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T13:59:22.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MedicalHistory.cs",
+              "DocumentMoniker": "C:\\Users\\norha\\OneDrive\\Desktop\\FinalProjectDiabetesDiagnoses\\Diabetes.Core\\Entites\\MedicalHistory.cs",
+              "RelativeDocumentMoniker": "..\\Diabetes.Core\\Entites\\MedicalHistory.cs",
+              "ToolTip": "C:\\Users\\norha\\OneDrive\\Desktop\\FinalProjectDiabetesDiagnoses\\Diabetes.Core\\Entites\\MedicalHistory.cs",
+              "RelativeToolTip": "..\\Diabetes.Core\\Entites\\MedicalHistory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T13:59:13.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Disease.cs",
+              "DocumentMoniker": "C:\\Users\\norha\\OneDrive\\Desktop\\FinalProjectDiabetesDiagnoses\\Diabetes.Core\\Entites\\Disease.cs",
+              "RelativeDocumentMoniker": "..\\Diabetes.Core\\Entites\\Disease.cs",
+              "ToolTip": "C:\\Users\\norha\\OneDrive\\Desktop\\FinalProjectDiabetesDiagnoses\\Diabetes.Core\\Entites\\Disease.cs",
+              "RelativeToolTip": "..\\Diabetes.Core\\Entites\\Disease.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T13:58:55.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\norha\\OneDrive\\Desktop\\FinalProjectDiabetesDiagnoses\\Diabetes.Core\\Entites\\Doctor.cs",
+              "RelativeDocumentMoniker": "..\\Diabetes.Core\\Entites\\Doctor.cs",
+              "ToolTip": "C:\\Users\\norha\\OneDrive\\Desktop\\FinalProjectDiabetesDiagnoses\\Diabetes.Core\\Entites\\Doctor.cs",
+              "RelativeToolTip": "..\\Diabetes.Core\\Entites\\Doctor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T13:50:30.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DoctorChatbotQuestionDoctor.cs",
+              "DocumentMoniker": "C:\\Users\\norha\\OneDrive\\Desktop\\FinalProjectDiabetesDiagnoses\\Diabetes.Core\\Entites\\DoctorChatbotQuestionDoctor.cs",
+              "RelativeDocumentMoniker": "..\\Diabetes.Core\\Entites\\DoctorChatbotQuestionDoctor.cs",
+              "ToolTip": "C:\\Users\\norha\\OneDrive\\Desktop\\FinalProjectDiabetesDiagnoses\\Diabetes.Core\\Entites\\DoctorChatbotQuestionDoctor.cs",
+              "RelativeToolTip": "..\\Diabetes.Core\\Entites\\DoctorChatbotQuestionDoctor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T13:50:43.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "C:\\Users\\norha\\OneDrive\\Desktop\\FinalProjectDiabetesDiagnoses\\Diabetes.Core\\Entites\\Manager.cs",
+              "RelativeDocumentMoniker": "..\\Diabetes.Core\\Entites\\Manager.cs",
+              "ToolTip": "C:\\Users\\norha\\OneDrive\\Desktop\\FinalProjectDiabetesDiagnoses\\Diabetes.Core\\Entites\\Manager.cs",
+              "RelativeToolTip": "..\\Diabetes.Core\\Entites\\Manager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T13:50:53.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ManagerMedicalHistory.cs",
+              "DocumentMoniker": "C:\\Users\\norha\\OneDrive\\Desktop\\FinalProjectDiabetesDiagnoses\\Diabetes.Core\\Entites\\ManagerMedicalHistory.cs",
+              "RelativeDocumentMoniker": "..\\Diabetes.Core\\Entites\\ManagerMedicalHistory.cs",
+              "ToolTip": "C:\\Users\\norha\\OneDrive\\Desktop\\FinalProjectDiabetesDiagnoses\\Diabetes.Core\\Entites\\ManagerMedicalHistory.cs",
+              "RelativeToolTip": "..\\Diabetes.Core\\Entites\\ManagerMedicalHistory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T13:51:01.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Diagnosis.cs",
+              "DocumentMoniker": "C:\\Users\\norha\\OneDrive\\Desktop\\FinalProjectDiabetesDiagnoses\\Diabetes.Core\\Entites\\Diagnosis.cs",
+              "RelativeDocumentMoniker": "..\\Diabetes.Core\\Entites\\Diagnosis.cs",
+              "ToolTip": "C:\\Users\\norha\\OneDrive\\Desktop\\FinalProjectDiabetesDiagnoses\\Diabetes.Core\\Entites\\Diagnosis.cs",
+              "RelativeToolTip": "..\\Diabetes.Core\\Entites\\Diagnosis.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T13:50:04.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Clerk.cs",
+              "DocumentMoniker": "C:\\Users\\norha\\OneDrive\\Desktop\\FinalProjectDiabetesDiagnoses\\Diabetes.Core\\Entites\\Clerk.cs",
+              "RelativeDocumentMoniker": "..\\Diabetes.Core\\Entites\\Clerk.cs",
+              "ToolTip": "C:\\Users\\norha\\OneDrive\\Desktop\\FinalProjectDiabetesDiagnoses\\Diabetes.Core\\Entites\\Clerk.cs",
+              "RelativeToolTip": "..\\Diabetes.Core\\Entites\\Clerk.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T13:49:53.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ChatbotQuestionDoctor.cs",
+              "DocumentMoniker": "C:\\Users\\norha\\OneDrive\\Desktop\\FinalProjectDiabetesDiagnoses\\Diabetes.Core\\Entites\\ChatbotQuestionDoctor.cs",
+              "RelativeDocumentMoniker": "..\\Diabetes.Core\\Entites\\ChatbotQuestionDoctor.cs",
+              "ToolTip": "C:\\Users\\norha\\OneDrive\\Desktop\\FinalProjectDiabetesDiagnoses\\Diabetes.Core\\Entites\\ChatbotQuestionDoctor.cs",
+              "RelativeToolTip": "..\\Diabetes.Core\\Entites\\ChatbotQuestionDoctor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T13:49:45.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ChatbotQuestionCasualUser.cs",
+              "DocumentMoniker": "C:\\Users\\norha\\OneDrive\\Desktop\\FinalProjectDiabetesDiagnoses\\Diabetes.Core\\Entites\\ChatbotQuestionCasualUser.cs",
+              "RelativeDocumentMoniker": "..\\Diabetes.Core\\Entites\\ChatbotQuestionCasualUser.cs",
+              "ToolTip": "C:\\Users\\norha\\OneDrive\\Desktop\\FinalProjectDiabetesDiagnoses\\Diabetes.Core\\Entites\\ChatbotQuestionCasualUser.cs",
+              "RelativeToolTip": "..\\Diabetes.Core\\Entites\\ChatbotQuestionCasualUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T13:49:37.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DiagnosisDisease.cs",
+              "DocumentMoniker": "C:\\Users\\norha\\OneDrive\\Desktop\\FinalProjectDiabetesDiagnoses\\Diabetes.Core\\Entites\\DiagnosisDisease.cs",
+              "RelativeDocumentMoniker": "..\\Diabetes.Core\\Entites\\DiagnosisDisease.cs",
+              "ToolTip": "C:\\Users\\norha\\OneDrive\\Desktop\\FinalProjectDiabetesDiagnoses\\Diabetes.Core\\Entites\\DiagnosisDisease.cs",
+              "RelativeToolTip": "..\\Diabetes.Core\\Entites\\DiagnosisDisease.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T13:50:12.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CasualUserChatbotQuestionCasualUser.cs",
+              "DocumentMoniker": "C:\\Users\\norha\\OneDrive\\Desktop\\FinalProjectDiabetesDiagnoses\\Diabetes.Core\\Entites\\CasualUserChatbotQuestionCasualUser.cs",
+              "RelativeDocumentMoniker": "..\\Diabetes.Core\\Entites\\CasualUserChatbotQuestionCasualUser.cs",
+              "ToolTip": "C:\\Users\\norha\\OneDrive\\Desktop\\FinalProjectDiabetesDiagnoses\\Diabetes.Core\\Entites\\CasualUserChatbotQuestionCasualUser.cs",
+              "RelativeToolTip": "..\\Diabetes.Core\\Entites\\CasualUserChatbotQuestionCasualUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T13:49:28.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CasualUser.cs",
+              "DocumentMoniker": "C:\\Users\\norha\\OneDrive\\Desktop\\FinalProjectDiabetesDiagnoses\\Diabetes.Core\\Entites\\CasualUser.cs",
+              "RelativeDocumentMoniker": "..\\Diabetes.Core\\Entites\\CasualUser.cs",
+              "ToolTip": "C:\\Users\\norha\\OneDrive\\Desktop\\FinalProjectDiabetesDiagnoses\\Diabetes.Core\\Entites\\CasualUser.cs",
+              "RelativeToolTip": "..\\Diabetes.Core\\Entites\\CasualUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T13:49:19.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BloodSugarMeasurement.cs",
+              "DocumentMoniker": "C:\\Users\\norha\\OneDrive\\Desktop\\FinalProjectDiabetesDiagnoses\\Diabetes.Core\\Entites\\BloodSugarMeasurement.cs",
+              "RelativeDocumentMoniker": "..\\Diabetes.Core\\Entites\\BloodSugarMeasurement.cs",
+              "ToolTip": "C:\\Users\\norha\\OneDrive\\Desktop\\FinalProjectDiabetesDiagnoses\\Diabetes.Core\\Entites\\BloodSugarMeasurement.cs",
+              "RelativeToolTip": "..\\Diabetes.Core\\Entites\\BloodSugarMeasurement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T13:49:10.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Alarm.cs",
+              "DocumentMoniker": "C:\\Users\\norha\\OneDrive\\Desktop\\FinalProjectDiabetesDiagnoses\\Diabetes.Core\\Entites\\Alarm.cs",
+              "RelativeDocumentMoniker": "..\\Diabetes.Core\\Entites\\Alarm.cs",
+              "ToolTip": "C:\\Users\\norha\\OneDrive\\Desktop\\FinalProjectDiabetesDiagnoses\\Diabetes.Core\\Entites\\Alarm.cs",
+              "RelativeToolTip": "..\\Diabetes.Core\\Entites\\Alarm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T13:48:55.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\norha\\OneDrive\\Desktop\\FinalProjectDiabetesDiagnoses\\Diabetes.Core\\Entites\\Admin.cs",
+              "RelativeDocumentMoniker": "..\\Diabetes.Core\\Entites\\Admin.cs",
+              "ToolTip": "C:\\Users\\norha\\OneDrive\\Desktop\\FinalProjectDiabetesDiagnoses\\Diabetes.Core\\Entites\\Admin.cs",
+              "RelativeToolTip": "..\\Diabetes.Core\\Entites\\Admin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T13:47:57.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "FinalContext.cs",
+              "DocumentMoniker": "C:\\Users\\norha\\OneDrive\\Desktop\\FinalProjectDiabetesDiagnoses\\Diabetes.Repository\\Data\\FinalContext.cs",
+              "RelativeDocumentMoniker": "..\\Diabetes.Repository\\Data\\FinalContext.cs",
+              "ToolTip": "C:\\Users\\norha\\OneDrive\\Desktop\\FinalProjectDiabetesDiagnoses\\Diabetes.Repository\\Data\\FinalContext.cs",
+              "RelativeToolTip": "..\\Diabetes.Repository\\Data\\FinalContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T12:59:59.494Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
